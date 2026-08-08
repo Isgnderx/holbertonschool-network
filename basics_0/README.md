@@ -26,8 +26,4 @@ protocols, ports, and ICMP.
 ```bash
 ./4-TCP_and_UDP_ports
 ./5-is_the_host_on_the_network 8.8.8.8
-```
 
-## Author
-
-Aliyyiakbar Shirinli
